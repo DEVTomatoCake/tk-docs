@@ -25,7 +25,7 @@ Lasse andere Nutzer den angegebenen Text erraten, bevor das Galgenmännchen voll
 
 Spiele Connect4 gegen einen anderen Spieler.
 
-`game snake`
+`game connect4`
 
 ## Among Us
 
